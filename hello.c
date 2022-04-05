@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-   printf("Hello, Spring 2022!");
+   printf("Hello world! - 2022");
    return 0;
 }
